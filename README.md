@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+I am a Computer Science undergraduate student at SRM University with an interest in artificial intelligence, machine learning and data sciences.
+
+### Github Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aakritikinra&show_icons=true&theme=nightowl)
+
+
+### Contact Info
+You can find me at [<img src="https://github.com/AakritiKinra/AakritiKinra/blob/main/linkedin.svg" width="30px">](https://www.linkedin.com/in/aakriti-kinra/) or [<img src="https://github.com/AakritiKinra/AakritiKinra/blob/main/instagram.svg" width="30px">](https://www.instagram.com/_aakritikinra_/)
