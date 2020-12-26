@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **AakritiKinra/AakritiKinra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
 I am a Computer Science undergraduate student at SRM University with an interest in artificial intelligence, machine learning and data sciences.
 
 ### Github Stats
@@ -22,4 +20,4 @@ I am a Computer Science undergraduate student at SRM University with an interest
 
 
 ### Contact Info
-You can find me at [<img src="https://github.com/AakritiKinra/AakritiKinra/blob/main/linkedin.svg" width="30px">](https://www.linkedin.com/in/aakriti-kinra/) or [<img src="https://github.com/AakritiKinra/AakritiKinra/blob/main/instagram.svg" width="30px">](https://www.instagram.com/_aakritikinra_/)
+You can find me at [<img src="https://github.com/AakritiKinra/AakritiKinra/blob/main/linkedin.svg" width="30px">](https://www.linkedin.com/in/aakriti-kinra/) and [<img src="https://github.com/AakritiKinra/AakritiKinra/blob/main/instagram.svg" width="30px">](https://www.instagram.com/_aakritikinra_/)
