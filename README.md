@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am currently pursuing my Master's degree in Computational Data Science at Carnegie Mellon University. With a keen interest in data science, machine learning, and data analytics, I am actively seeking internships in these domains for the Summer of 2024.
-
-### Contact Info
-You can find me at [<img src="https://github.com/AakritiKinra/AakritiKinra/blob/main/linkedin.svg" width="30px">](https://www.linkedin.com/in/aakriti-kinra/)
