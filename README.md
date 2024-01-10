@@ -13,11 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Computer Science undergraduate student at SRM University with an interest in artificial intelligence, machine learning and data sciences.
-
-### Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aakritikinra&show_icons=true&theme=nightowl)
-
+I am currently pursuing my Master's degree in Computational Data Science at Carnegie Mellon University. With a keen interest in data science, machine learning, and data analytics, I am actively seeking internships in these domains for the Summer of 2024.
 
 ### Contact Info
-You can find me at [<img src="https://github.com/AakritiKinra/AakritiKinra/blob/main/linkedin.svg" width="30px">](https://www.linkedin.com/in/aakriti-kinra/) and [<img src="https://github.com/AakritiKinra/AakritiKinra/blob/main/instagram.svg" width="30px">](https://www.instagram.com/_aakritikinra_/)
+You can find me at [<img src="https://github.com/AakritiKinra/AakritiKinra/blob/main/linkedin.svg" width="30px">](https://www.linkedin.com/in/aakriti-kinra/)
