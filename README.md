@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently pursuing my Master's degree in Computational Data Science at Carnegie Mellon University. With a keen interest in data science, machine learning, and data analytics, I am actively seeking internships in these domains for the Summer of 2024.
+I’m Aakriti Kinra, a recent **Master’s in Computational Data Science** graduate from **Carnegie Mellon University’s School of Computer Science**. My passions revolve around building scalable AI systems 🚀 — everything from designing deep learning models 🤖 to orchestrating cloud-based deployments. I love diving into multimodal ML, LLM analysis, and MLOps, bridging cutting-edge research with real-world applications.
+
+I’m now looking for **full-time roles** where I can apply my skillset in **data science**, **machine learning**, and **AI**. If you’re interested in collaborating on new ideas or just want to chat about the latest in AI, feel free to explore my repositories and connect! Let’s build something impactful together 🤝.
